@@ -1,3 +1,5 @@
+// Aleksandr Verevkin
+
 /*
  * Binárny vyhľadávací strom — rekurzívna varianta
  *

@@ -1,3 +1,5 @@
+// Aleksandr Verevkin
+
 /*
  * Tabuľka s rozptýlenými položkami
  *
